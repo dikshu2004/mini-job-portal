@@ -3,6 +3,11 @@
 A small **Mini Job Portal** built with React and Vite to learn and practice **React Router** concepts through a simple real-world example.
 
 This project is focused more on **understanding how routing works** than on UI design or advanced features.
+## 📝 Blog
+
+I wrote about my learning journey and what I learned about React Router while building this project.
+
+👉 [What Building a Mini Job Portal Taught Me About React Router](https://medium.com/@dikshasomwanshi24/what-building-a-mini-job-portal-taught-me-about-react-router-2245d560e3c9)
 
 ## 🎯 Purpose
 
